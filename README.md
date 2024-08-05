@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on wireless communication
+- 🌱 I’m currently learning matlab
+- 📫 How to reach me: shubham20242106@iitgoa.ac.in
